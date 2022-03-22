@@ -13,5 +13,5 @@ jobs:
         uses: tandv592082/waka-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: 4992b143bddbc5ad731fd622707685d5
+          GIST_ID: 1d25cc1bc9a5b9ba710b2f1c1ef51906
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
